@@ -1,4 +1,6 @@
 # depslib dependency file v1.0
-1446667744 source:f:\workspace\leetcode\main.cpp
+1495235786 source:f:\workspace\leetcode\main.cpp
 	<iostream>
+	<vector>
+	<unordered_map>
 
